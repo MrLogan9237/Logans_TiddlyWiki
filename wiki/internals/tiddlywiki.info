@@ -1,0 +1,14 @@
+{
+	"plugins": [
+		"tiddlywiki/codemirror"
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+    "languages": [
+        "es-ES",
+        "fr-FR",
+        "en-EN"
+    ]
+}
